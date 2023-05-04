@@ -7,4 +7,4 @@
 
 [IMPLEMENTATION OF OPTIMIZED BUBBLE SORT](https://github.com/kumudh-ranasinghe/c--/blob/a670a252c949ccb295e863fd36ca66cd1ce7d7a3/quicksort.cpp)
 
-[IMPLEMENTATION OF INSERTION SORT](https://github.com/kumudh-ranasinghe/c--/blob/a670a252c949ccb295e863fd36ca66cd1ce7d7a3/quicksort.cpp)
+[IMPLEMENTATION OF INSERTION SORT](https://github.com/kumudh-ranasinghe/DSA/blob/725318e5700b641afe5f4292ff98d86fafc5be77/LAB%201/insertionsort.cpp)
