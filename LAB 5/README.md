@@ -3,7 +3,7 @@
 
 ### QUESTION 1
 
-[RECURSIVE QUICK SORT](https://github.com/kumudh-ranasinghe/c--/blob/a670a252c949ccb295e863fd36ca66cd1ce7d7a3/quicksort.cpp)
+[RECURSIVE QUICK SORT](https://github.com/kumudh-ranasinghe/DSA/blob/7b7fb75930e06b8122df75522704250da0c5944a/LAB%205/quicksort.cpp)
 
 [ITERATIVE QUICK SORT](https://github.com/kumudh-ranasinghe/c--/blob/a670a252c949ccb295e863fd36ca66cd1ce7d7a3/quicksort1.cpp)
 
