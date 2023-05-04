@@ -10,4 +10,4 @@
 
 ### QUESTION 2
 
-[RUNNING MEDIAN](https://github.com/kumudh-ranasinghe/c--/blob/a670a252c949ccb295e863fd36ca66cd1ce7d7a3/runningmedian.cpp)
+[RUNNING MEDIAN](https://github.com/kumudh-ranasinghe/DSA/blob/30dec45afc0d05a057427df9e151e0f3841a65e4/LAB%205/runningmedian.cpp)
