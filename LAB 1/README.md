@@ -1,7 +1,7 @@
 # IN CLASS LAB EXERCISE (WEEK 1)
 
 
-[IMPLEMENTATION OF SELECTION SORT](https://github.com/kumudh-ranasinghe/c--/blob/a670a252c949ccb295e863fd36ca66cd1ce7d7a3/quicksort.cpp)
+[IMPLEMENTATION OF SELECTION SORT](https://github.com/kumudh-ranasinghe/DSA/blob/50ebd641c5db67d18bcbdcf4c892793e33c20fa2/LAB%201/selectionsort.cpp)
 
 [IMPLEMENTATION OF BUBBLE SORT](https://github.com/kumudh-ranasinghe/DSA/blob/ee9a38bca9da834ce3cb48e85566429222098e79/LAB%201/bubblesort.cpp)
 
